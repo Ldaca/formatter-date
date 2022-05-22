@@ -1,0 +1,30 @@
+{
+  "name": "@ldaca/formatter-date",
+  "version": "1.0.1",
+  "description": "Función para formatear una fecha de acuerdo a un patrón",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "date",
+    "node",
+    "npm"
+  ],
+  "author": "Luis Dávila Castro <Ldaca77@outlook.com>",
+  "license": "MIT",
+  "bin": {
+    "format": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ldaca/formatter-date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ldaca/formatter-date/issues"
+  },
+  "homepage": "https://github.com/Ldaca/formatter-date#readme"
+}
