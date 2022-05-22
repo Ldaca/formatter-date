@@ -14,7 +14,7 @@ npm install formatter-date
 import { format } from "formatter-date";
 
 let date = new Date();
-let formattedDate = format(date);
+let formattedDate = format(date, 'yyyymmddhhiissms');
 console.log(formattedDate);
 ```
 
